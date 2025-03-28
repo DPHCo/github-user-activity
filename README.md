@@ -27,3 +27,6 @@ This project analyzes GitHub user activity and provides insights into repositori
    github-activity <username>
    ```
 2. Follow the prompts to analyze GitHub user activity.
+
+## Project Url
+- https://roadmap.sh/projects/github-user-activity
