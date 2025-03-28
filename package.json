@@ -1,0 +1,14 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "express": "^4.21.2"
+  },
+  "bin": {
+    "github-activity": "./src/action.js"
+  },
+  "scripts": {
+    "start": "node src/action.js"
+  }
+}
